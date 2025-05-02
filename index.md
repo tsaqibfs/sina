@@ -7,7 +7,7 @@ hero:
   text: "UTBK & SKD"
   tagline: Tempat belajar UTBK & SKD yang menarik!
   image:
-    src: /sina-logo-large.svg
+    src: /logo.svg
     alt: Logo Sina
   actions:
     - theme: brand
