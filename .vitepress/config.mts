@@ -37,68 +37,49 @@ export default defineConfig({
             text: 'Penalaran Umum',
             collapsed: true,
             items: [
-              { text: 'Simpulan Logis', link: '/utbk/pu/sl' },
-              { text: 'Argumentasi', link: '/utbk/pu/arg' },
-              { text: 'Statistik', link: '/utbk/pu/stat' },
-              { text: 'Barisan Bilangan', link: '/utbk/pu/bb' },
-              { text: 'Aritmatika', link: '/utbk/pu/arit' },
-              { text: 'Perbandingan', link: '/utbk/pu/perb' }
+              // { text: 'Simpulan Logis', link: '/utbk/pu/sl' }
             ]
           },
           {
             text: 'Pengetahuan & Pemahaman Umum',
             collapsed: true,
             items: [
-              { text: 'Makna', link: '/utbk/ppu/makna' },
-              { text: 'Kata', link: '/utbk/ppu/kata' },
-              { text: 'Frasa', link: '/utbk/ppu/frasa' },
-              { text: 'Kalimat', link: '/utbk/ppu/kalimat' },
-              { text: 'Paragraf', link: '/utbk/ppu/paragraf' },
-              { text: 'Tujuan', link: '/utbk/ppu/tujuan' },
-              { text: 'Bahasa Panda', link: '/utbk/ppu/bp' }
+              // { text: 'Makna', link: '/utbk/ppu/makna' }
             ]
           },
           {
             text: 'Pemahaman Bacaan & Menulis',
             collapsed: true,
             items: [
-              { text: 'Ejaan', link: '/utbk/pbm/ejaan' },
-              { text: 'Kata dan Makna', link: '/utbk/pbm/km' },
-              { text: 'Konjungsi', link: '/utbk/pbm/konjungsi' },
-              { text: 'Kalimat', link: '/utbk/pbm/kalimat' },
-              { text: 'Wacana', link: '/utbk/pbm/wacana' }
+              // { text: 'Ejaan', link: '/utbk/pbm/ejaan' }
             ]
           },
           {
             text: 'Pengetahuan Kuantitatif',
             collapsed: true,
             items: [
-              { text: 'Markdown Examples', link: '/markdown-examples' },
-              { text: 'Runtime API Examples', link: '/api-examples' }
+              // { text: 'Markdown Examples', link: '/markdown-examples' }
             ]
           },
           {
             text: 'Literasi Bahasa Indonesia',
             collapsed: true,
             items: [
-              { text: 'Markdown Examples', link: '/markdown-examples' },
-              { text: 'Runtime API Examples', link: '/api-examples' }
+              // { text: 'Markdown Examples', link: '/markdown-examples' }
             ]
           },
           {
             text: 'Literasi Bahasa Inggris',
             collapsed: true,
             items: [
-              { text: 'Markdown Examples', link: '/markdown-examples' },
-              { text: 'Runtime API Examples', link: '/api-examples' }
+              // { text: 'Markdown Examples', link: '/markdown-examples' }
             ]
           },
           {
             text: 'Penalaran Matematika',
             collapsed: true,
             items: [
-              { text: 'Markdown Examples', link: '/markdown-examples' },
-              { text: 'Runtime API Examples', link: '/api-examples' }
+              // { text: 'Markdown Examples', link: '/markdown-examples' }
             ]
           },
         ]
@@ -110,24 +91,21 @@ export default defineConfig({
             text: 'Tes Wawasan Kebangsaan',
             collapsed: true,
             items: [
-              { text: 'Markdown Examples', link: '/markdown-examples' },
-              { text: 'Runtime API Examples', link: '/api-examples' }
+              // { text: 'Markdown Examples', link: '/markdown-examples' }
             ]
           },
           {
             text: 'Tes Intelegensi Umum',
             collapsed: true,
             items: [
-              { text: 'Markdown Examples', link: '/markdown-examples' },
-              { text: 'Runtime API Examples', link: '/api-examples' }
+              // { text: 'Markdown Examples', link: '/markdown-examples' }
             ]
           },
           {
             text: 'Tes Karakteristik Pribadi',
             collapsed: true,
             items: [
-              { text: 'Markdown Examples', link: '/markdown-examples' },
-              { text: 'Runtime API Examples', link: '/api-examples' }
+              // { text: 'Markdown Examples', link: '/markdown-examples' }
             ]
           }
         ]

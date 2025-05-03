@@ -2,7 +2,7 @@
 
 ---
 
-**UTBK-SNBT** adalah salah satu jalur untuk masuk ke PTN lewat tes. Tujuannya yaitu untuk menguji kemampuan skolastik calon mahasiswa, dan memberikan hasil pengerjaan kepada PTN. UTBK ini terdapat 7 subtes yang diujikan, yaitu:
+**UTBK-SNBT** adalah salah satu jalur untuk masuk ke PTN lewat tes. UTBK ini terdapat 7 subtes yang diujikan, yaitu:
 
 | Subtes                         | Jumlah Soal | Durasi     |
 | :----------------------------: | :---------: | :--------: |

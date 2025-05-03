@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Sina"
   text: "UTBK & SKD"
-  tagline: Tempat belajar UTBK & SKD yang menarik!
+  tagline: Kumpulan materi UTBK & SKD yang lengkap! (Masih kosong)
   image:
     src: /logo.svg
     alt: Logo Sina
@@ -20,13 +20,13 @@ hero:
 features:
   - icon: 😎
     title: Materi Lengkap
-    details: Nggak perlu lagi nyari materi sana-sini, semua terkumpul jadi satu.
+    details: Nggak perlu lagi nyari materi sana-sini, semua terkumpul di satu tempat.
   - icon: 📚
     title: Materi Terstruktur
     details: Mulai dari UTBK hingga SKD semua sudah urut dan ringkas.
   - icon: 📖
     title: Fitur Pencarian
-    details: Capek nyari? Langsung cari aja!
+    details: Capek nyari? Langsung cari di pencarian aja!
 
 ---
 
